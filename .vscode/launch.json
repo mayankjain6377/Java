@@ -1,0 +1,116 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "java1_Collection",
+            "request": "launch",
+            "mainClass": "java1_Collection",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "java7_enum",
+            "request": "launch",
+            "mainClass": "java7_enum",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "java5_interface",
+            "request": "launch",
+            "mainClass": "java5_interface",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "java_3constructor",
+            "request": "launch",
+            "mainClass": "java_3constructor",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "java_2this",
+            "request": "launch",
+            "mainClass": "java_2this",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation1",
+            "request": "launch",
+            "mainClass": "encapsulation1",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "string1",
+            "request": "launch",
+            "mainClass": "string1",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "array1",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "leetcode1",
+            "request": "launch",
+            "mainClass": "leetcode1",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "class_4",
+            "request": "launch",
+            "mainClass": "class_4",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "class_3array",
+            "request": "launch",
+            "mainClass": "class_3array",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "class_2",
+            "request": "launch",
+            "mainClass": "class_2",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java Telusko_9aa34639"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
